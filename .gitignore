@@ -1,4 +1,20 @@
-# files and folders
-/venv
+# Python Bytecode
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# Environment Variables
 .env
-__pycache__
+
+# Logs
+*.log
+logs/
+
+# OS-Specific
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.swp
